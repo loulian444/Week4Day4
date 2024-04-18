@@ -1,0 +1,12 @@
+span {
+  display: inline-block;
+  border: solid black 2px;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  margin: 2px;
+}
+
+#puzzleSec {
+  width: 120px;
+}
